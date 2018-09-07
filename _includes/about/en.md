@@ -3,7 +3,7 @@
 > Write code, photography, travel, watching movies,
 > Everything is a process before leaving the world.
 
-Hey, I am Zhang Qing, the degree of evolution is unknown, and more in the [blog](https://www.middlewest.cn), [Weibo](https://weibo.com/athenaclassical), [Twitter](https://twitter.com/qingshuandian/), [Github](http://github.com/xiaochukuang) and other areas, the trick is still under development.
+Hey, I am Zhang Qing, the degree of evolution is unknown, and more in the [blog](https://www.middlewest.cn), [Weibo](https://weibo.com/athenaclassical), [Twitter](https://twitter.com/qingshuandian/), [Github](http://github.com/cosyprop) and other areas, the trick is still under development.
 
 Career is a web front-end engineer.
 
