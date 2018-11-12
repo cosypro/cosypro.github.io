@@ -103,5 +103,8 @@ friends: [
     },{
         title: "甜菜欣欣的博客",
         href: "http://tcxx.info/"
+    },{
+        title: "阮一峰的博客",
+        href: "http://www.ruanyifeng.com"
     }
 ]
