@@ -99,7 +99,8 @@ friends: [
         href: "https://vineo.cn/"
     },{
         title: "工大大傻子",
-        href: "http://zoec.info/"
+        #href: "http://zoec.info/"
+        href: "https://yakumozoe.github.io/"
     },{
         title: "甜菜欣欣的博客",
         href: "http://tcxx.info/"
