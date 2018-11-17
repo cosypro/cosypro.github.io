@@ -4,7 +4,7 @@ SEOTitle: Cosy的博客 | Cosy Blog
 header-img: img/home-bg.jpg
 email: greatsmail0321@gmail.com
 description: "关于前端 | 这里是 我 的个人博客，与你一起发现更大的世界。"
-keyword: "Cosy， 张清的博客, Cosy Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端"
+keyword: "Cosy， cosy的博客, Cosy Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端"
 url: "https://www.middlewest.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
