@@ -107,5 +107,8 @@ friends: [
     },{
         title: "阮一峰的博客",
         href: "http://www.ruanyifeng.com"
+    }，{
+        title: "Hux Blog",
+        href: "https://huangxuan.me/"
     }
 ]
