@@ -110,5 +110,11 @@ friends: [
     },{
         title: "Hux Blog",
         href: "https://huangxuan.me/"
+    },{
+        title: "勾三股四",
+        href: "https://jiongks.name/"
+    },{
+        title: "程序员维他命-J_Knight_",
+        href: "https://knightsj.github.io/"
     }
 ]
