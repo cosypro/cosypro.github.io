@@ -1,12 +1,13 @@
 ---
 layout:     keynote
 title:      "JavaScript 模块化七日谈"
-subtitle:   "Slides: JavaScript Modularization Journey"
+subtitle:   "🎞  Slides:JavaScript Modularization Journey"
 iframe:     "//huangxuan.me/js-module-7day/"
 date:       2015-07-09
 author:     "Hux"
 tags:
-    - 前端开发
+    - Slides
+    - Web
     - JavaScript
 ---
 

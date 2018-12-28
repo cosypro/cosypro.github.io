@@ -8,8 +8,7 @@ header-img: "img/post-bg-nextgen-web-pwa.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-    - 前端开发
-    - JavaScript
+    - Web
     - PWA
 ---
 
@@ -148,15 +147,15 @@ var localServer = google.gears.factory.create("bata.localserver");
 var store = localServer.createManagedStore(STORE_NAME);
 store.manifestUrl = "manifest.json"
 ```
-```json
-// manifest.json - 假设 JSON 有注释
+```js
+// manifest.json
 {
-　　"betaManifestVersion":　1,
-　　"version": 　"1.0",
-　　"entries":　[　
-　　　　{　"url": 　"index.html"},
-　　　　{　"url": 　"main.js"}
-　　]
+  "betaManifestVersion": 1,
+  "version": "1.0",
+  "entries": [
+    { "url": "index.html" }, 
+    { "url": "main.js" }
+  ]
 }
 ```
 
@@ -268,7 +267,6 @@ self.addEventListener('notificationclick', event => {
 self.addEventListener('notificationclose', event => {  
   // Do something with the event  
 });
-
 ```
 
 对于 Push Notification，笔者的几次分享中一直都提的稍微少一些，一是因为 Push API 还处于 Editor Draft 的状态，二是目前浏览器与推送服务间的协议支持还不够成熟：Chrome（与其它基于 Blink 的浏览器）在 Chromium 52 之前只支持基于 Google 私有的 GCM/FCM 服务进行通知推送。不过好消息是，继 Firefox 44 之后，Chrome 52 与 Opera 39 也紧追其后实现了正在由 IETF 进行标准化的 [Web 推送协议（Web Push Protocol）][spec5]。

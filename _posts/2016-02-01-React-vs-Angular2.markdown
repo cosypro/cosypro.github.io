@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "React vs Angular 2：冰与火之歌「译」"
+title:      "「译」React vs Angular 2：冰与火之歌"
 subtitle:   "React versus Angular 2: There Will Be Blood"
 date:       2016-02-01 12:00:00
 author:     "Hux"
@@ -8,9 +8,9 @@ header-img: "img/post-bg-re-vs-ng2.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-    - 前端开发
-    - JavaScript
-    - 译文
+  - Web
+  - JavaScript
+  - 译
 ---
 
 > 这篇文章转载自[我在知乎专栏「前端外刊评论」上发表的文章](http://zhuanlan.zhihu.com/FrontendMagazine/20549104)。
@@ -159,6 +159,7 @@ Angular 2 的内联母版（inline master templates）使用了这样的语法�
 
 React 因为语法和概念的简约而与众不同。我们不妨品味下当今流行的 JS 框架/库都是如何实现遍历的：
 
+{% raw %}
 ```
 Ember     : {{# each}}
 Angular 1 : ng-repeat
@@ -166,6 +167,7 @@ Angular 2 : ngFor
 Knockout  : data-bind="foreach"
 React     : 直接用 JS 就好啦 :)
 ```
+{% endraw %}
 
 除了 React，所有其它框架都用自己的专有语法重新发明了一个我们在 JavaScript 常见得不能再常见的东西：**循环**。这大概就是 React 的美妙之处，利用 JavaScript 的力量来处理标签，而不是什么奇怪的新语法。
 

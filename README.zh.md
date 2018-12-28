@@ -254,6 +254,5 @@ JavaScript 的压缩混淆、Less 的编译、Apache 2.0 许可通告的添加�
 
 3. 感谢 Jekyll、Github Pages 和 Bootstrap!
 
-4. http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html(博客建站还可以参考阮一峰的文章)
 
 

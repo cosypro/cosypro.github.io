@@ -1,11 +1,11 @@
 
 
-> Write code, photography, travel, watching movies,
-> Everything is a process before leaving the world.
+> Yet another man.
 
-Hey, I am Zhang Qing, the degree of evolution is unknown, and more in the [blog](https://www.middlewest.cn), [Weibo](https://weibo.com/athenaclassical), [Twitter](https://twitter.com/qingshuandian/), [Github](http://github.com/cosyprop) and other areas, the trick is still under development.
 
-Career is a web front-end engineer.
+Hi, I am *@huxpro* (Huang, Xuan), a software engineer & a designer. I am currently working on [Reason](https://reasonml.github.io/) and [Messenger.com](http://messenger.com/) at [Facebook](https://www.facebook.com/). I previously worked as Web Front-End Engineer at [Alibaba Trip](https://www.alitrip.com/); Web Front-End Infrastructure Team Lead at [Wepiao.com](https://www.crunchbase.com/organization/wepiao#/entity); And [Invited Consultant on PWA]((https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)) at [Ele.me](https://github.com/elemefe/).
+
+I studied Digital Media Art and graduated from [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) by 2016, and am studying Computer Science at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology) from 2017.
 
 
 ##### Talks

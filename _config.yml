@@ -1,11 +1,11 @@
 # Site settings
-title: Cosy Blog
-SEOTitle: Cosy的博客 | Cosy Blog
+title: Hux Blog
+SEOTitle: 黄玄的博客 | Hux Blog
 header-img: img/home-bg.jpg
-email: greatsmail0321@gmail.com
-description: "关于前端 | 这里是 我 的个人博客，与你一起发现更大的世界。"
-keyword: "Cosy， cosy的博客, Cosy Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端"
-url: "https://www.middlewest.cn"              # your host, for absolute URL
+email: huxpro@gmail.com
+description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
+keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+url: "https://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     athenaclassical
-#zhihu_username:     nope
-github_username:    cosyprop
-twitter_username:   qingshuandian
-#facebook_username:  cosyprop
+weibo_username:     huxpro
+zhihu_username:     huxpro
+github_username:    huxpro
+twitter_username:   huxpro
+#facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -48,7 +48,13 @@ plugins: [jekyll-paginate]
 # document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 kramdown:
-input: GFM                            # use Github Flavored Markdown !important
+  input: GFM                            # use Github Flavored Markdown !important
+  syntax_highlighter_opts:
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
 
 
 
@@ -73,7 +79,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/person.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -89,32 +95,45 @@ service-worker: true
 
 
 
+# MathJax rendering for layout:page (e.g. post preview)
+page-mathjax: false
+
+
+
 # Friends
 friends: [
     {
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "Fantasy",
-        href: "https://vineo.cn/"
+        title: "乱序",
+        href: "http://mida.re/"
     },{
-        title: "工大大傻子",
-        #href: "http://zoec.info/"
-        href: "https://yakumozoe.github.io/"
+        title: "前端外刊评论",
+        href: "http://qianduan.guru/"
     },{
-        title: "甜菜欣欣的博客",
-        href: "http://tcxx.info/"
+        title: "天镶的博客",
+        href: "http://lingyu.wang/"
     },{
-        title: "阮一峰的博客",
-        href: "http://www.ruanyifeng.com"
+        title: "Luke 的自留地",
+        href: "http://hmqk1995.github.io"
     },{
-        title: "Hux Blog",
-        href: "https://huangxuan.me/"
+        title: "Ebn's Blog",
+        href: "http://ebnbin.com/"
     },{
-        title: "勾三股四",
-        href: "https://jiongks.name/"
+        title: "SmdCn's Blog",
+        href: "http://blog.smdcn.net"
     },{
-        title: "程序员维他命-J_Knight_",
-        href: "https://knightsj.github.io/"
+        title: "David's Game",
+        href: "https://www.ruoyaowu.com/"
+    },{
+        title: "DHong Say",
+        href: "http://dhong.co"
+    },{
+        title: "尹峰以为",
+        href: "http://ingf.github.io/"
+    },{
+        title: "解旻的博客",
+        href: "http://xieminis.me/"
     }
 ]
